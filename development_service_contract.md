@@ -61,12 +61,16 @@ performing Services for the Client.
 The Developer retains ownership of all Intangibles gained by the Developer
 (that are not previously owned by the Client) while providing Services.
 
-7. **Termination**:
+7. **Confidentiality**:
+The Client agrees not to reveal the rate pricing stated in Section (1) to any
+third party individual or company without the consent of The Developer.
+
+8. **Termination**:
 Either party must give at least 14 days notice to the other party before
 termination.  This contract may only be terminated after all outstanding
 invoices have been paid in full.
 
-8. **Changes**:
+9. **Changes**:
 Either party may request to modify the terms of this contract at any time.
 When both parties consent to new terms and a new contract is signed, this
 contract is terminated immediately.
